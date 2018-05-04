@@ -15,6 +15,10 @@ const selectingDrivers = [
 
 function createFareMultiplier(multiply_by){
   return function multiplier(fare){
-    return fare*multiply_by
+    return fare*multiply_by;
   }
-}
+};
+
+function fareDoubler(){
+  
+};
