@@ -5,5 +5,6 @@ const returnFirstTwoDrivers = function(drivers){
 };
 
 const returnLastTwoDrivers = function(drivers){
-  return drivers.slice(0, -21;
+  return drivers.slice(0, -1);
 };
+1
